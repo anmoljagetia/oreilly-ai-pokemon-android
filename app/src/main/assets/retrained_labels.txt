@@ -1,0 +1,6 @@
+background
+bulbasaur
+charmander
+mewtwo
+pikachu
+squirtle
